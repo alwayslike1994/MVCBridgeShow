@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="BridgeFlowShow">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../BridgeFlowShow/lib/jfreechart-1.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../BridgeFlowShow/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../BridgeFlowShow/lib/jcommon-1.0.23.jar!/" />
+      <root url="file://$PROJECT_DIR$/../BridgeFlowShow/lib" />
+      <root url="jar://$PROJECT_DIR$/../BridgeFlowShow/lib/mysql-connector-java-5.1.44-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../BridgeFlowShow/lib" recursive="false" />
+  </library>
+</component>
